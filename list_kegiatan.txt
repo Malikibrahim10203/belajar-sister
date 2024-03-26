@@ -1,0 +1,12 @@
+List Kegiatan 
+1.Jam 09.30, Mulai Pendakian
+2.Jam 11.30, Isoma
+3.Jam 12.30, Lanjut Pendakian
+4.Jam 15.00, Isoma
+5.Jam 15.50, Lanjut Penakdakian
+6.Jam 16.30, Pendirian Tenda
+7.Jam 20.30, Tidur
+8.Jam 03.00, Lanjut Summit
+9.Jam 09.50, Turun Summit
+10.Jam 11.30, Packing Tenda
+11.Jam 13.30, Turun
